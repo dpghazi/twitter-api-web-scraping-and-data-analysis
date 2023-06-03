@@ -13,4 +13,4 @@ Wrangling, analyzing and visualizing data gathered from WeRateDogs (@dog_rates) 
 * Python (Pandas, Tweepy, Requests, JSON, Matplotlib)
 
 ## Featured Notebook
-* [Twitter API Web Scraping & Data Analysis](https://dpghazi.github.io/projects/twitter-api-web-scraping-data-analysis.html)
+* [Twitter API Web Scraping & Data Analysis](https://dpghazi-da-nano.s3.amazonaws.com/twitter-api-ws-da.html)
